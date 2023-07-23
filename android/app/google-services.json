@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419260825471",
+    "project_id": "ebook-c9ec9",
+    "storage_bucket": "ebook-c9ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419260825471:android:8c366ce2eef95cb70ca44a",
+        "android_client_info": {
+          "package_name": "com.example.bookeapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419260825471-75lb8f423onmo60haigaq3rlqsioh9r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyz2QJG893qInCOAdxRj336xIpzq7WMW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419260825471-75lb8f423onmo60haigaq3rlqsioh9r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
